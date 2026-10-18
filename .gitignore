@@ -1,0 +1,5 @@
+# Temporary Office files and operating-system metadata
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
