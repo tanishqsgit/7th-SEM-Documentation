@@ -1,3 +1,7 @@
+> **Reader guide:** Start with [Find the right AgentOps document](docs/reader-guide.md)
+> for reading paths, document status, and the distinction between documented
+> capabilities and verified product procedures.
+
 # 7th Semester Project Documentation
 
 ## Cloud-Based Multi-Agent AI Orchestration Platform
