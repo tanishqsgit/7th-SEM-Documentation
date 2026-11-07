@@ -1,8 +1,4 @@
-> **Reader guide:** Start with [Find the right AgentOps document](docs/reader-guide.md)
-> for reading paths, document status, and the distinction between documented
-> capabilities and verified product procedures.
-
-# 7th Semester Project Documentation
+# AgentOps — Architecture & Project Documentation
 
 ## Cloud-Based Multi-Agent AI Orchestration Platform
 
@@ -19,6 +15,10 @@ Project documentation for **AgentOps**, a platform for coordinating specialized 
 - Tanishq Sonawane
 - Varun Patil
 - Keyur Mhatre
+
+> **Reader guide:** Start with [Find the right AgentOps document](docs/reader-guide.md)
+> for reading paths, document status, and the distinction between documented
+> capabilities and verified product procedures.
 
 ### Documents
 
